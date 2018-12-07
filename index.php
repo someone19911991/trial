@@ -1,3 +1,3 @@
 <?php
 	
-	echo 'Something';
+	echo 'Something else';
