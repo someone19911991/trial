@@ -1,3 +1,3 @@
 <?php
 	
-	echo 'Master branch';
+	echo 'Master branch updated';
